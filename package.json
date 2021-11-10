@@ -26,9 +26,6 @@
 		"type": "git",
 		"url": "https://github.com/excalibur-enterprise/timeval-js.git"
 	},
-	"publishConfig": {
-		"registry":"https://npm.pkg.github.com"
-	},
 	"bugs": {
 		"url": "https://github.com/excalibur-enterprise/timeval-js/issues"
 	},
